@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peixer5637
 - 👀 I’m interested in:get over me
-- 🌱 I’m currently learning:Java
+- 🌱 I’m currently learning:Java (basic) python (basic)
 - 💞️ I’m looking to collaborate on:anything that can help humanity
 - 📫 How to reach me ...
 - 😄 Pronouns:he/him, Pronomes: "ele/dele"
