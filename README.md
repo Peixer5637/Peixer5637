@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...:Java (basic) python (training)
 - 💞️ I’m looking to collaborate on ...:anything that can help humanity
 - 📫 How to reach me ...: www.linkedin.com/in/gabrielpeixer
-- 😄 Pronouns ...:{IN he/him}, {PT-BR ele/dele}
+- 😄 Pronouns ...:{ING he/him}, {PT-BR ele/dele}
 - ⚡ Fun fact: ...: X=(1+X)2
 <!---
 Peixer5637/Peixer5637 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
