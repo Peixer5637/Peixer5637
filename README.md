@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...:anything that can help humanity
 - 📫 How to reach me ...: www.linkedin.com/in/gabrielpeixer
 - 😄 Pronouns ...:{ING he/him}, {PT-BR ele/dele}
-- ⚡ Fun fact: ...: X=(1+X)2
+- ⚡ Fun fact: ...: 2+2=Fish
 <!---
 Peixer5637/Peixer5637 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
