@@ -1,7 +1,7 @@
-- 👋 Oi, Eu sou @Peixer5637
-- 👀 Meu interesse é ...:me superar cada dia mais
-- 💞️ Meu objetivo é ...:anything that can help humanity
-- 😄 Pronomes ...:{ele/dele}
+- 👋 Oi, eu sou @Peixer5637
+- 💞️ Meu interesse é me superar a cada dia
+- 🎯 Meu objetivo é fazer qualquer coisa que possa ajudar você a sorrir
+- 😏 Pronomes: {PT-BR ele/dele}
 
 <div>
   <a href="https://github.com/Peixer5637">
