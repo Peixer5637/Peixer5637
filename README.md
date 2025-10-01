@@ -1,8 +1,7 @@
 - 👋 Oi, Eu sou @Peixer5637
 - 👀 Meu interesse é ...:me superar cada dia mais
 - 💞️ Meu objetivo é ...:anything that can help humanity
-- 📫 onde me encontrar ...: www.linkedin.com/in/gabrielpeixer
-- 😄 Pronomes ...:{PT-BR ele/dele}
+- 😄 Pronomes ...:{ele/dele}
 
 <div>
   <a href="https://github.com/Peixer5637">
